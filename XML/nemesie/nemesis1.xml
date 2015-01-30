@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Percept>
+	<Player>
+		<Name>GlensNemesis1</Name>
+		<Location>
+			<X>345.23</X>
+			<Y>425</Y>
+			<Z>45</Z>
+		</Location>
+		<Physics>Jumping</Physics>
+		<Weapon>
+			<Name>Plasma Rifle</Name>
+			<Range>Middle</Range>
+		</Weapon>
+		<Team>
+			<Colour>Grean</Colour>
+			<Number>3</Number>
+		</Team>
+	</Player>
+</Percept>

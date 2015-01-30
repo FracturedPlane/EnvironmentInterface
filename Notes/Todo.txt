@@ -1,0 +1,5 @@
+TODO:
+
+1) abstract out Prolog message decoding from Action theory part of IndiGolog.
+2) Increase behavior of EntityController.
+3) Work on documenting aiInterface.	
